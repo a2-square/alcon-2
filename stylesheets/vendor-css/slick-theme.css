@@ -2,7 +2,7 @@
 /* Slider */
 .slick-loading .slick-list
 {
-    background: #fff url('../images/ajax-loader.gif') center center no-repeat;
+    background: #fff url('assets/images/ajax-loader.gif') center center no-repeat;
 }
 
 /* Icons */
@@ -165,27 +165,21 @@
 {
     opacity: 1;
 }
-.slick-dots li button:before
-{
-    font-family: 'slick';
+.slick-dots li button::before {
+    font-family: FontAwesome;
     font-size: 12px;
     line-height: 20px;
-
     position: absolute;
-    top: 0;
-    left: 0;
-
-    width: 20px;
-    height: 20px;
-
-    content: 'â€¢';
+    top: 0px;
+    left: 0px;
+    width: 15px;
+    height: 15px;
+    content: "";
     text-align: center;
-
-    opacity: .25;
-    color: #fff;
-
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    opacity: 0.25;
+    color: #FFF;
+    background: white;
+    border-radius: 50%;
 }
 .slick-dots li.slick-active button:before
 {

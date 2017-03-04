@@ -1,5 +1,5 @@
 'use strict';
-var app = angular.module('ajitkumar', [
+var app = angular.module('acreparirApp', [
         'ngRoute',
         'ngStorage',
         'angular-toasty',
