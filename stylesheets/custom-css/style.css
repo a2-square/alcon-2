@@ -799,10 +799,10 @@ ul.listnone {}
 }
 
 .imghjk {
-    color: #FD951C;
-    font-size: 23px;
-    margin-top: 9px;
-    float: left;
+color: #FD951C;
+font-size: 23px;
+margin-top: -18px;
+float: left;height:87px;
 }
 
 #navigation > ul > li:hover > a {
@@ -1219,7 +1219,7 @@ ul.listnone {}
 .slider-img {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+1,000000+100&0.6+0,0.6+100 */
     background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 1%, rgba(0, 0, 0, 0.6) 100%);
-    height: 480px;
+    height: 520px;
     /* FF3.6-15 */
     background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 1%, rgba(0, 0, 0, 0.6) 100%);
     /* Chrome10-25,Safari5.1-6 */
@@ -2891,3 +2891,38 @@ blockquote {
     color: #a55400;
 }
 
+.thim-register-now-form .title{color:#fff;font-size:22px;line-height:23px;margin:0 0 0px;overflow:hidden;padding:5px 30px 34px;position:relative;text-align:center;}
+.headdff{position:absolute!important;right:-8px!important;top:-31px!important;background:transparent none repeat scroll 0% 0%!important;z-index:3!important;}
+.loginuserm i{color:white;font-size:19px;float:left;padding-left:7px;padding-top:4px;}
+.loginuserm{background:#E09C19;width:30px;height:30px;color:#fff;position:absolute;right:0px;background-position:0 -27px;border:1px solid #fff;border-radius:50%;}
+.thim-register-now-form{border:3px solid #eee;}
+.thim-register-now-form .wpcf7-form .wpcf7-submit{background:rgb(19, 158, 217) none repeat scroll 0 0;color:#fff;border:0px;box-shadow:0 4px 0 0 #2377af;margin-top:10px;text-align:center;width:100%;padding:8px;}
+.thim-register-now-form .wpcf7-form{padding:0 12px 20px;position:relative;}
+.thim-register-now-form .wpcf7-form input[type="text"], .thim-register-now-form .wpcf7-form input[type="email"], .thim-register-now-form .wpcf7-form input[type="tel"], .thim-register-now-form .wpcf7-form input[type="number"], .thim-register-now-form .wpcf7-form input[type="date"], .thim-register-now-form .wpcf7-form select, .thim-register-now-form .wpcf7-form textarea{border-color:#e5e5e5;color:#999;}
+.wpcf7-form input[type="text"], .wpcf7-form input[type="email"], .wpcf7-form input[type="tel"], .wpcf7-form input[type="number"], .wpcf7-form input[type="date"], .wpcf7-form select, .wpcf7-form textarea{border-color:#eeeeee;}
+.wpcf7-form input[type="text"], .wpcf7-form input[type="email"], .wpcf7-form input[type="tel"], .wpcf7-form input[type="number"], .wpcf7-form input[type="date"], .wpcf7-form select, .wpcf7-form textarea {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e5e5e5;
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 13px;
+    line-height: 20px;
+    height: 33px!important;
+    margin-bottom: 10px;
+    padding: 1px 10px!important;
+    transition: all 0.3s ease-in-out 0s;
+    width: 100%;
+}div.wpcf7 .screen-reader-response{border:0 none;clip:rect(1px, 1px, 1px, 1px);height:1px;margin:0;overflow:hidden;padding:0;position:absolute;width:1px;}
+.thim-register-now-form .title::before{background:rgb(253,149,28);}
+.thim-register-now-form .title::before{border-radius:50%;bottom:20px;content:"";height:820px;left:calc(50% - 410px);position:absolute;right:auto;width:820px;}
+.uselink{padding:0px;list-style:none;}
+.com {
+    position: relative;
+    margin-top: 10px !important;
+    line-height: 25px;
+    font-size: 18px;
+    margin-bottom: 10px;color:white;
+}
+.wpcf7-form p{
+	margin-bottom:0px!important;
+}
