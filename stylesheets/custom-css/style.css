@@ -2888,9 +2888,12 @@ blockquote {
 
 .page-about {
     background: #E59400;
-    color: #a55400;
+color: white;
+padding: 18px 0px;
 }
-
+.feature .feature-inner .feature-content p{
+	color:#333 !important;
+}
 .thim-register-now-form .title{color:#fff;font-size:22px;line-height:23px;margin:0 0 0px;overflow:hidden;padding:5px 30px 34px;position:relative;text-align:center;}
 .headdff{position:absolute!important;right:-8px!important;top:-31px!important;background:transparent none repeat scroll 0% 0%!important;z-index:3!important;}
 .loginuserm i{color:white;font-size:19px;float:left;padding-left:7px;padding-top:4px;}
