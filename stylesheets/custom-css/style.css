@@ -2929,3 +2929,8 @@ padding: 18px 0px;
 .wpcf7-form p{
 	margin-bottom:0px!important;
 }
+
+.scroll_ul {
+    max-height: 232px;
+    overflow-y: scroll;
+}
